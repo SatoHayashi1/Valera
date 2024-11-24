@@ -11,17 +11,16 @@
 
         }
         {
-<<<<<<< HEAD
-        
-
-=======
-=======
->>>>>>> 95042bf1cc1513c64ab9fdbd1bdb7a720e231704
             "id": 7,
             "name": "Sato",
             "surname": "Hayashi",
             "photo_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.etsy.com%2Fse-en%2Flisting%2F1715420363%2Fart-the-clown-terrifier-3-full-costume&psig=AOvVaw2w9qUxzezARpCEugHy2jna&ust=1732545106765000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiz09CX9YkDFQAAAAAdAAAAABAJ",
             "balance": 1000
+        }
+    ],
+    "products": [
+        {
+            "sosuska"
         }
     ]
 }
